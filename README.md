@@ -21,6 +21,5 @@ I’m Zeeshan, and I lead a team of seasoned industry experts specializing in De
 - ✅ Created automation script to manage the Tagging in Azure resources through Ansible Automation Platform.
 
 ### 📫 Let’s Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
-- 🧑‍💻 [Portfolio](https://your-portfolio.com)
-- 📧 Email: yourname@example.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/zeeshan-khan12/)
+- 📧 Email: cloudzee2024@gmail.com
